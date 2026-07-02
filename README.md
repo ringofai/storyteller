@@ -1,4 +1,4 @@
-# 🎭 Storytelling Skill
+# 🎭 Be a Storyteller
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-1.0-blue)](https://agentskills.io)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
@@ -12,7 +12,7 @@
 ## Install
 
 ```bash
-npx skills add ringofai/storytelling-skill
+npx skills add ringofai/storyteller
 ```
 
 Then ask your agent:
