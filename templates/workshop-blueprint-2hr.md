@@ -1,11 +1,11 @@
 # Workshop Blueprint: 2-Hour Storytelling Session
 
-A compressed introduction to the StoryCraft Framework. Suitable for secondary or university students.
+A compressed introduction to the Storyteller Framework. Suitable for secondary or university students.
 
 ## Learning Objectives
 
 By the end of this session, participants will:
-- Understand the 5-stage StoryCraft Framework
+- Understand the 5-stage Storyteller Framework
 - Write a story hook and three-act outline
 - Practise vocal delivery techniques
 - Give and receive structured feedback

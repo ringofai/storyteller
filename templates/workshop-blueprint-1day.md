@@ -1,6 +1,6 @@
 # Workshop Blueprint: 1-Day Storytelling Intensive
 
-A deep dive into all 5 stages of the StoryCraft Framework. Suitable for university students, educators, or professional training.
+A deep dive into all 5 stages of the Storyteller Framework. Suitable for university students, educators, or professional training.
 
 ## Learning Objectives
 

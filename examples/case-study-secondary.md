@@ -13,7 +13,7 @@ Students had to prepare an oral presentation for an upcoming school event. Most 
 
 ## The Approach
 
-We adapted the StoryCraft Framework for a shorter attention span, using the 3-stage version:
+We adapted the Storyteller Framework for a shorter attention span, using the 3-stage version:
 
 1. **Hook (15 min)** — LSP warm-up: "Build the ending first." Each student built a LEGO model of their story's ending point. Then we asked: "Now build where you started." The physical gap between the two models was their hook.
 

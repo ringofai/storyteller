@@ -7,7 +7,7 @@
 > Tell better stories. Teach others too. **Your AI Agent makes it possible.**
 > Hundreds of masters across centuries. I curated their best. Your agent delivers it actively: reading your drafts, interviewing you when you're stuck, and forcing you to rewrite.
 
-![The StoryCraft Framework: HOOK → SHAPE → FLESH → JUDGE → LAND](assets/storycraft-framework.png)
+![The Storyteller Framework: HOOK → SHAPE → FLESH → JUDGE → LAND](assets/storyteller-framework.png)
 
 ## Install
 

@@ -1,8 +1,8 @@
-# The StoryCraft Framework — Overview
+# The Storyteller Framework — Overview
 
 ## Core Principle
 
-Stories are not born — they are **built**. The StoryCraft Framework is a 5-stage system that takes any story idea from first spark to final delivery. Each stage has a clear craft principle, a practical exercise, an AI prompt, and a measurable output.
+Stories are not born — they are **built**. The Storyteller Framework is a 5-stage system that takes any story idea from first spark to final delivery. Each stage has a clear craft principle, a practical exercise, an AI prompt, and a measurable output.
 
 ---
 
@@ -58,7 +58,7 @@ Here's what didn't make the cut:
 
 ## 10 Founding Frameworks (Why These 10?)
 
-The StoryCraft Framework synthesises principles from 10 storytelling frameworks and adapts them for the AI age. Each one was chosen because it passed the classroom test — not just the library test.
+The Storyteller Framework synthesises principles from 10 storytelling frameworks and adapts them for the AI age. Each one was chosen because it passed the classroom test — not just the library test.
 
 1. **Aristotle's Poetics** — *Why:* 3,000 years old and still the best foundation. *Why here:* Provides the universal arc that all students recognise, even if they can't name it.
 

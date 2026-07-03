@@ -7,7 +7,7 @@ This is not a grading rubric — it's a reflection tool for educators who teach 
 | Question | Notes |
 |:---------|:------|
 | Who is my audience and what do they already know about storytelling? | |
-| Which StoryCraft stages will I cover? | |
+| Which Storyteller stages will I cover? | |
 | What's my single goal for this session? | |
 | How will I adapt for this group's language/culture? | |
 | What AI tools will I use or demonstrate? | |

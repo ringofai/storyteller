@@ -1,6 +1,6 @@
 # Storytelling Rubric — Secondary Students (Ages 13-17)
 
-Use this rubric to assess student stories across the StoryCraft Framework. For classroom use, focus on Stages 1 (Hook), 2 (Shape), and 5 (Land).
+Use this rubric to assess student stories across the Storyteller Framework. For classroom use, focus on Stages 1 (Hook), 2 (Shape), and 5 (Land).
 
 | Criterion | Emerging (1) | Developing (2) | Proficient (3) | Advanced (4) |
 |:----------|:-------------|:---------------|:---------------|:-------------|

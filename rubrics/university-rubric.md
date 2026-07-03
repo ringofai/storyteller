@@ -1,6 +1,6 @@
 # Storytelling Rubric — University Students (Ages 18-22)
 
-Use this rubric to assess student stories across all 5 stages of the StoryCraft Framework.
+Use this rubric to assess student stories across all 5 stages of the Storyteller Framework.
 
 | Criterion | Developing (1) | Competent (2) | Strong (3) | Excellent (4) |
 |:----------|:---------------|:--------------|:-----------|:--------------|

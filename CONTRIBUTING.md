@@ -98,7 +98,7 @@ If something doesn't work — a broken link, a confusing exercise, a prompt that
 ## Repository Structure
 
 ```
-storytelling-skill/
+storyteller/
 ├── SKILL.md              # Agent instructions (translate this first)
 ├── README.md             # Main page
 ├── docs/

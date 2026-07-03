@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  
+  body {
+    width: 1280px;
+    height: 640px;
+    overflow: hidden;
+    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    background: #0a0a0f;
+  }
+  
+  .frame {
+    position: relative;
+    width: 1280px;
+    height: 640px;
+  }
+  
+  /* Background image */
+  .frame img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  /* Subtle gradient overlay for text readability */
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      135deg,
+      rgba(10, 10, 15, 0.85) 0%,
+      rgba(10, 10, 15, 0.50) 35%,
+      rgba(10, 10, 15, 0.30) 55%,
+      rgba(10, 10, 15, 0.65) 85%,
+      rgba(10, 10, 15, 0.90) 100%
+    );
+    pointer-events: none;
+  }
+
+  /* Bottom dark bar for the stage names */
+  .footer-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 110px;
+    background: linear-gradient(to top, rgba(10, 10, 15, 0.95) 0%, rgba(10, 10, 15, 0) 100%);
+    pointer-events: none;
+  }
+
+  /* Text container — top left */
+  .text-block {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    max-width: 820px;
+    z-index: 2;
+  }
+
+  .provocation {
+    font-size: 32px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.55);
+    letter-spacing: -0.3px;
+    line-height: 1.3;
+    margin-bottom: 6px;
+  }
+
+  .provocation strong {
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.92);
+  }
+
+  .divider {
+    width: 48px;
+    height: 2px;
+    background: #3b82f6;
+    margin: 22px 0 18px 0;
+    border-radius: 2px;
+  }
+
+  .subhead {
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.50);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }
+
+  /* Stage names in the footer */
+  .stages {
+    position: absolute;
+    bottom: 28px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 0;
+    z-index: 2;
+    padding: 0 60px;
+  }
+
+  .stage-item {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    justify-content: center;
+  }
+
+  .stage-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.75);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+
+  .stage-arrow {
+    color: rgba(59, 130, 246, 0.50);
+    font-size: 14px;
+    font-weight: 300;
+    margin-left: 0;
+    letter-spacing: 0;
+  }
+
+  /* Repo name in bottom right */
+  .repo-label {
+    position: absolute;
+    bottom: 42px;
+    right: 60px;
+    z-index: 2;
+    text-align: right;
+  }
+
+  .repo-label span {
+    font-size: 13px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.35);
+    letter-spacing: 1px;
+  }
+
+  .repo-label .highlight {
+    color: #3b82f6;
+  }
+
+  /* Responsive stage arrows */
+  .arrow-sep {
+    color: rgba(59, 130, 246, 0.30);
+    font-size: 12px;
+    font-weight: 200;
+    margin: 0 4px;
+  }
+</style>
+</head>
+<body>
+<div class="frame">
+  <!-- Background image -->
+  <img src="storycraft-banner-bg.png" alt="abstract-storycraft-banner">
+
+  <!-- Gradient overlay -->
+  <div class="overlay"></div>
+  
+  <!-- Bottom fade -->
+  <div class="footer-bar"></div>
+
+  <!-- Text block — top left -->
+  <div class="text-block">
+    <div class="provocation">
+      AI doesn't make<br>
+      storytelling <strong>easier</strong>.<br>
+      It makes <strong>craft</strong> more important.
+    </div>
+    <div class="divider"></div>
+    <div class="subhead">The StoryCraft Framework</div>
+  </div>
+
+  <!-- Stage names bottom -->
+  <div class="stages">
+    <div class="stage-item">
+      <span class="stage-name">Hook</span>
+      <span class="arrow-sep">→</span>
+    </div>
+    <div class="stage-item">
+      <span class="stage-name">Shape</span>
+      <span class="arrow-sep">→</span>
+    </div>
+    <div class="stage-item">
+      <span class="stage-name">Flesh</span>
+      <span class="arrow-sep">→</span>
+    </div>
+    <div class="stage-item">
+      <span class="stage-name">Judge</span>
+      <span class="arrow-sep">→</span>
+    </div>
+    <div class="stage-item">
+      <span class="stage-name">Land</span>
+      <span class="arrow-sep" style="opacity:0">→</span>
+    </div>
+  </div>
+</div>
+</body>
+</html>

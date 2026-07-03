@@ -1,4 +1,4 @@
-# StoryCraft Foundations — Brain Science & Stickiness
+# Storyteller Foundations — Brain Science & Stickiness
 
 This module provides two essential layers that underpin the entire framework: **why stories work in the brain**, and **how to make stories stick in memory**. Teach this as a prelude to the 5-stage framework, or integrate the tools into relevant stages.
 

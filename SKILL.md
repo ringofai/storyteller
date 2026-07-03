@@ -1,5 +1,5 @@
 ---
-name: storytelling-skill
+name: storyteller
 description: >-
   Elevate your storytelling — coach through hook, structure, script, evaluation,
   delivery. Curated from hundreds of masters. Lean instructions, max value per call.
@@ -28,7 +28,7 @@ trigger_phrases:
   - "story framework"
 ---
 
-# StoryCraft — Storytelling Skill
+# Storyteller — Storytelling Skill
 
 **Optimized for token efficiency. Every section is essential.**
 
@@ -219,7 +219,7 @@ AI amplifies, doesn't replace. If AI wrote it, you didn't tell a story. Disclose
 ## Quick Install
 
 ```bash
-npx skills add ringofai/storytelling-skill
+npx skills add ringofai/storyteller
 ```
 
 See `docs/` for design philosophy, full source framework annotations, and extended facilitation notes.

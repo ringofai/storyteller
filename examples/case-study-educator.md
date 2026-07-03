@@ -13,7 +13,7 @@ Educators know their students need storytelling skills — but they themselves w
 
 ## The Approach
 
-We ran the full 1-Day StoryCraft Intensive, with an additional **train-the-trainer layer**:
+We ran the full 1-Day Storyteller Intensive, with an additional **train-the-trainer layer**:
 
 **Morning (Foundation):** Teachers experienced the framework as students — writing their own hooks, building structures, creating storyboards. They learned the framework by *doing* it.
 
@@ -54,6 +54,6 @@ Each teacher mapped their student population:
 
 ## What We Learned
 
-- **Teachers need a framework they can own, not a script they follow.** The StoryCraft Framework is designed to be adapted, not memorised.
+- **Teachers need a framework they can own, not a script they follow.** The Storyteller Framework is designed to be adapted, not memorised.
 - **The AI layer is the teacher's biggest concern and biggest opportunity.** Give them concrete prompts, not abstractions.
 - **Train-the-trainer sessions work best when teachers experience the framework as students first.** They can't teach what they haven't felt.
